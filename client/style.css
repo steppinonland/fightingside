@@ -1,0 +1,14 @@
+.navbar-brand{
+    font-family: 'Cabin', sans-serif;
+}
+.nav-item{
+    font-family: 'Heebo', sans-serif;
+}
+
+#navcolor{
+    background-color:rgb(163, 78, 45);
+    height: 8em;
+}
+body {
+    background-color: #e2cbc3;
+}
